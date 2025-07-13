@@ -26,15 +26,15 @@ Applied project organization techniques to ensure clarity and scalability, inclu
 - In-workflow documentation (annotations and comments)
 
 ## 📂 Sample Output:
-## ===========================================
-##         IMDB MOVIE INFORMATION
-## ===========================================
-## Movie Name: Madagascar: Escape 2 Africa
-## Year: 2008
-## Rating: 6.6/10
-## Category: PG
-## Duration: 1h 29m
-## ===========================================
+#### ===========================================
+###         IMDB MOVIE INFORMATION: 
+### ===========================================
+#### Movie Name: Madagascar: Escape 2 Africa
+#### Year: 2008
+#### Rating: 6.6/10
+#### Category: PG
+#### Duration: 1h 29m
+#### ===========================================
 
 <img width="1920" height="1025" alt="Screenshot 2025-07-13 190121" src="https://github.com/user-attachments/assets/7165ea11-604a-416d-9351-6d6415b8f629" />
 
